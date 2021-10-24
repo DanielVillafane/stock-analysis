@@ -153,7 +153,8 @@
 
 End Sub
 
-## 
+![2017 run time](VBA_Challeneg_2017.png)
+![2018 run time](VBA_Challeneg_2018.png)
 Using the Kickstarter dataset:
 1. I created a pivot table and filtered the table based on 
 parent category: Theater. 
