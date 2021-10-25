@@ -153,8 +153,10 @@
 
 End Sub
 
-![2017 run time](VBA_Challenge_2017.png)
-![2018 run time](VBA_Challege_2018.png)
+![2017 run time](VBA_Challenge_2017.PNG)
+
+![2018 run time](VBA_Challege_2018.PNG)
+
 [Stock Analysis](VBA_Challenge.xlsm)
 ## Summary:
 ### As stated above the benfits are the ability to process more data faster. This allows for analyze on more stocks. In addtion, the refactoring of the code provides cleaner code that can easily be updated in the future. 
