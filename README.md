@@ -155,7 +155,7 @@ End Sub
 
 ![2017 run time](VBA_Challenge_2017.PNG)
 
-![2018 run time](VBA_Challege_2018.PNG)
+![2018 run time](VBA_Challenge_2018.PNG)
 
 [Stock Analysis](VBA_Challenge.xlsm)
 ## Summary:
