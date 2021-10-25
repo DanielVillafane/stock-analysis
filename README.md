@@ -159,4 +159,4 @@ End Sub
 
 [Stock Analysis](VBA_Challenge.xlsm)
 ## Summary:
-### As stated above the benfits are the ability to process more data faster. This allows for analyze on more stocks. In addtion, the refactoring of the code provides cleaner code that can easily be updated in the future. 
+### As stated above the benefits are: The ability to process more data faster, this allows for analyze on more stocks. In addtion, the refactoring of the code provides cleaner, more concise code that can easily be updated in the future. 
